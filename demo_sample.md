@@ -118,3 +118,5 @@ Open the extension tab and search for, then add the following:
 Note: most extensions simply install and operate automatically without having to restart the software. Very nice! Similarly, if something isn't working right, it can be disabled from this menu easily. 
 
 ## Get some git
+
+Let's start by pulling your readme.md from your github account.
